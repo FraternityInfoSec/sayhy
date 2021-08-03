@@ -3,16 +3,17 @@
 
 ### Markdown
 
-Last updated and effective: June 23, 2020
-<br>
+Last updated and effective: July 3, 2021
+
 WELCOME TO SAYHY!
 SayHy, Inc. provides a social online and mobile chat platform via the SayHy website (the “Site”), the SayHy application (the “App”) and related Internet services (collectively, the “Service(s)”). The Service is operated by Discord, Inc. (the “Company”, “we” or “us”) for users of the Service (“you”). This Privacy Policy sets forth our policy with respect to information that is collected from visitors to the Site and users of the App and/or the Services. Under applicable law, Discord, Inc. is the “data controller” of personal data collected through the Services.
-<br>
+
 INFORMATION WE COLLECT
 When you interact with us through the Services, we may collect information from you, as further described below:
-<br>
+
 Information You Provide: We collect information from you when you voluntarily provide such information, such as when you register for access to the Services or use certain Services. Information we collect may include but not be limited to username, email address, and any messages, images, transient VOIP data (to enable communication delivery only) or other content you send via the chat feature.
-<br><br>
+
+
 OTHER INFORMATION:
 Data We Collect Automatically: When you interact with us through the Services, we receive and store certain information such as an IP address, device ID, and your activities within the Services. We may store such information or such information may be included in databases owned and maintained by affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of messages users have sent, as well as the sites which refer visitors to Discord.
 
@@ -29,7 +30,7 @@ Advertisements: You may see our Service advertised in other applications or webs
 If you do not wish to receive personalized advertising that is delivered by third parties outside of the Discord Service, you may be able to exercise that choice through opt-out programs that are administered by third parties, including the Network Advertising Initiative (NAI), the Digital Advertising Alliance (DAA). Our Services currently do not respond to “Do Not Track” (DNT) signals and operate as described in this Privacy Policy whether or not a DNT signal is received, as there is no consistent industry standard for compliance.
 
 WHERE INFORMATION IS PROCESSED
-The Company is based in the India. No matter where you are located, you consent to the processing and transferring of your information in and to the U.S. and other countries. The laws of the U.S. and other countries governing data collection and use may not be as comprehensive or protective as the laws of the country where you live.
+The Company is based in the India. No matter where you are located, you consent to the processing and transferring of your information in and to the India and other countries. The laws of the U.S. and other countries governing data collection and use may not be as comprehensive or protective as the laws of the country where you live.
 
 OUR USE OF YOUR INFORMATION
 We use the information you provide in a manner that is consistent with this Privacy Policy. If you provide information for a certain reason, we may use the information in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the information you provide to answer your question or resolve your problem. Also, if you provide information in order to obtain access to the Services, we will use your information to provide you with access to such services and to monitor your use of such services. The Company and its subsidiaries and affiliates (the “Related Companies”) may also use your information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. The Company and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
@@ -80,7 +81,7 @@ UNSOLICITED INFORMATION
 You may provide us with ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and we shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
 CHILDREN
-Our Services are for users age 13 and over and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personal information to us please contact us at dis.gd/request and select "Parent of a user" as your report type option. Note: In some countries, the age of digital consent is older than 13. If you are in those countries, you must be at least that age to use the Services. For example, for residents of the EEA, where processing of personal information is based on consent, Discord will not knowingly engage in that processing for users under the age of consent established by applicable data protection law. If we learn that we are engaged in that processing with such users, we will halt such processing and will take reasonable measures to promptly remove applicable information from our records.
+Our Services are for users age 13 and over and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personal information to us please contact us at Contact. Note: In some countries, the age of digital consent is older than 13. If you are in those countries, you must be at least that age to use the Services. For example, for residents of the EEA, where processing of personal information is based on consent, SayHy will not knowingly engage in that processing for users under the age of consent established by applicable data protection law. If we learn that we are engaged in that processing with such users, we will halt such processing and will take reasonable measures to promptly remove applicable information from our records.
 
 LINKS TO OTHER WEB SITES
 This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by us (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
@@ -97,10 +98,10 @@ We believe that users should be treated equally no matter where they are, and so
 Individuals in California, the European Economic Area, Canada, Costa Rica and some other jurisdictions outside the United States have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them (including, in some cases, in portable form), and to obtain its correction, update, amendment or deletion in appropriate circumstances. They may also object to our uses or disclosures of personal data, to request a restriction on its processing, or withdraw any consent, though such actions typically will not have retroactive effect. They also will not affect our ability to continue processing data in lawful ways.
 
 How can I access the personal data you have about me?
-If you would like to submit a data access request, you can do so from the “Settings” page of the Services, where there is a button to download your data. We will then start the process and provide you a link to access the personal data that Discord has on you within 30 days.
+If you would like to submit a data access request, you can do so from the “Settings” page of the Services, where there is a button to download your data. We will then start the process and provide you a link to access the personal data that SayHy has on you within 30 days.
 
 How do I correct, update, amend, or delete the personal data you have about me?
-In addition to the functionality available through the “Settings” of the Services, in which you can correct, update, amend, or delete certain personal data, you can also request other modifications from us directly. Please write us at privacy@discord.com with the words “Personal Data Request” in the subject or body of your message, along with an explanation of what data subject right you are seeking to exercise. For your protection, we may take steps to verify identity before responding to your request.
+In addition to the functionality available through the “Settings” of the Services, in which you can correct, update, amend, or delete certain personal data, you can also request other modifications from us directly. Please write us at contact.sayhy@gmail.com with the words “Personal Data Request” in the subject or body of your message, along with an explanation of what data subject right you are seeking to exercise. For your protection, we may take steps to verify identity before responding to your request.
 
 How do I object or restrict the manner in which Discord processes my personal data?
 You have a right to ask us to stop using or limit our use of your personal data in certain circumstances—for example, if we have no lawful basis to keep using your data, or if you think your personal data is inaccurate.
